@@ -37,6 +37,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SPA", "SPA\", "{72D3CFCB-8B
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "4760"
+		SlnRelativePath = "SPA\"
 	EndProjectSection
 EndProject
 Global

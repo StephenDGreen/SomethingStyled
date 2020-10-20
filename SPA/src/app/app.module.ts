@@ -29,3 +29,4 @@ import { CreateDataComponent } from './create-data/create-data.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+
