@@ -1,6 +1,7 @@
+@import "../scss/variables";
 a.navbar-brand {
   white-space: normal;
-  text-align: center;
+  text-align: right;
   word-break: break-all;
 }
 
@@ -13,6 +14,11 @@ html {
   }
 }
 
+nav{
+  background-color:$main-colour !important;
+}
+
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
+

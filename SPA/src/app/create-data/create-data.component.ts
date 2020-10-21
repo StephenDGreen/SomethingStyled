@@ -3,7 +3,8 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 @Component({
   selector: 'app-create-data',
-  templateUrl: './create-data.component.html'
+  templateUrl: './create-data.component.html',
+  styleUrls: ['./create-data.component.scss']
 })
 export class CreateDataComponent {
   public somethingelses: SomethingElse[];
